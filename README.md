@@ -1,2 +1,24 @@
-# Krypto
-An Open Source web Browser &amp; Utility project
+# Beffsbrowser Krypto
+
+Originally BeffsBrowser, Krypto is a Lightweight Browser with utilities built in VB.net on Mozilla's Gecko Webbrowsing Engine. 
+
+
+# Versions
+
+Currently Krypto is in Development, however a Version 0.1 release is scheduled this summer. 
+
+# License
+
+MIT License
+
+# Contributing
+
+Feature Requests? Find a Bug? [Send it my way](https://github.com/jdc20181/Krypto/issues/new)  
+
+Feel Free to contribute programming wise as well, however during development Pull-Requests are closed, for obvious reasons. 
+
+# Features
+
+Tabbed navigation, Tab Dragging, multi-window browsing, private browsing, Auto-updates, ScreenCapture, Notepad utility, Calculator, settings, and so much more. 
+
+*Some features are still in development as the transition from BeffsBrowser continues*
