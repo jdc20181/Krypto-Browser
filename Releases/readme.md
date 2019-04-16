@@ -45,7 +45,7 @@ System requirements for Krypto is dynamic to Operating System Support by Microso
 
 | System Requirement | Minimum  | Reccomended |
 |:------------------:|:--------:|:-----------:|
-|  Operating System  |     8    |      10     |
+|  Operating System  |   Windows  8    |  Windows    10     |
 |      Storage^      |   500MB  |     1GB     |
 |         RAM        |    1GB   |     2GB     |
 |   .NET Framework   |    4.0   |     4.6     |
