@@ -11,7 +11,7 @@ Currently Krypto is in Development, however a Version 0.1 release is scheduled t
 
 ### License
 
-MIT License
+[MIT License](https://github.com/jdc20181/Krypto/blob/master/LICENSE)
 
 ### Contributing
 
