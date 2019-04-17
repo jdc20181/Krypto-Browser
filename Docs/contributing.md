@@ -32,11 +32,32 @@ Use proper spacing and grammar in all edits, and contributions, keep things neat
 
 You can open a [new issue](https://github.com/jdc20181/Krypto/issues/new) for a variety of things, you found a bug, you are having an issue, or you have a cool feature idea. All are welcome, and if you are a developer, you are also welcome to implement new features. You are also free to use the issues feature to ask any questions you may have. 
 
+**Bugs** 
+
+Bugs do happen, and are things that go unnoticed or happen in a specific sequence of events, to make it easier include any screenshots, and step by step reproducible steps for the best chance of it getting fixed, if it is non-reproducible or not enough details it will be labeled as such. 
+
+Contributing to bug reports can be challenging, be sure to check [Known Issues](https://github.com/jdc20181/Krypto/issues/1) before you open a new thread, you can comment on the known issues section and list if you are having the same issue occuring or there is reproducible steps. In the event the bug is larger, it may be moved to its own thread and linked. 
+
+Missing features or broken features are not supported as bug reports, sometimes features are in beta/Development state so, they do break in certain situations, and seem to not have full functionailty. You can still report them, but be sure you still check out the known issues section before doing so. 
+
+
+**Feature Requests** 
+
+
+Feature requests are welcomed as always, things that will not be supported is cloud sync, Windows 7 support, Or older frameworks. Feature requests should be clear and consistant, and fully detailed. 
+
+
+**Issues (Things that aren't bugs)**
+
+Issues are things such as, but not limited to, .NET Framework errors, Installer errors/issues, update issues/errors, Data corruption, etc. 
+
+
+
 ### Unsupported items
 
 - BeffsBrowser Versions, as these are legacy releases, Krypto is the rebuild of BeffsBrowser. 
 
-- [Known Issues]() should be duplicated, and closed. 
+
 
 - Windows 7, XP or any Framework older than 4.5.1
 
