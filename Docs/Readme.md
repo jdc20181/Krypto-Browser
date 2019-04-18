@@ -9,3 +9,6 @@
 - [System Requirements](https://github.com/jdc20181/Krypto/tree/master/Releases#system-requirements)
 
 - [Feature Migration](https://github.com/jdc20181/Krypto/blob/master/Docs/Featuremigration.md#krypto-is-the-new-beffsbrowser)
+
+- [Licensing](https://github.com/jdc20181/Krypto/blob/master/Docs/Licensing.md)
+
