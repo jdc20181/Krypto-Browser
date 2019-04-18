@@ -10,5 +10,14 @@ Not all features will be listed, and will be migrated in priority, the biggest p
 
 ### BeffsBrowser Features
 
-[X]Test
+- [ ] Main Browsing components, Tab-Control Browser, Dual Browsing, and Browser Settings,Tab dragging,Tab context menu
 
+- [ ] Utilities: Screencapture, Word-pad Editor, Calculator
+
+- [ ] Advance Settings for utilities 
+
+- [ ] Auto Updating System
+
+- [ ] Shortcuts for all features
+
+- [ ] Reserved
