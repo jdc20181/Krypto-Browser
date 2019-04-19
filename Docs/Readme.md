@@ -12,3 +12,7 @@
 
 - [Licensing](https://github.com/jdc20181/Krypto/blob/master/Docs/Licensing.md)
 
+- [Contributing](https://github.com/jdc20181/Krypto/blob/master/Docs/contributing.md)
+
+
+
