@@ -2,6 +2,9 @@
 
 Checkout some of Krypto's awesome documentation before creating an issue, some things can be fixed or resolved this way. 
 
+
+- [Known Bugs & Issues](https://github.com/jdc20181/Krypto/issues/1)
+
 - [Licensing](https://github.com/jdc20181/Krypto/blob/master/Docs/Licensing.md)
 
 - [Contributing](https://github.com/jdc20181/Krypto/blob/master/Docs/contributing.md)
