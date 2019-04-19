@@ -1,5 +1,8 @@
 # Beffsbrowser Krypto
 
+**Coming Summer 2019** 
+
+
 Originally BeffsBrowser, Krypto is a Lightweight Browser with utilities built in VB.net on Mozilla's Gecko Webbrowsing Engine. 
 
 
