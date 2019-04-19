@@ -31,4 +31,4 @@ Tabbed navigation, Tab Dragging, multi-window browsing, private browsing, Auto-u
 
 Please See the [DOCS](https://github.com/jdc20181/Krypto/tree/master/Docs) Folder for a directory of information and documents. 
 
-![Disc](https://discordapp.com/api/guilds/568432777519693827/embed.png?style=shield)
+[![Disc](https://discordapp.com/api/guilds/568432777519693827/embed.png?style=shield)](https://discord.gg/SwgGCuX)
