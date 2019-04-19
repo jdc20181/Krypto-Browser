@@ -14,5 +14,6 @@
 
 - [Contributing](https://github.com/jdc20181/Krypto/blob/master/Docs/contributing.md)
 
+- [Trouble Shooting](https://github.com/jdc20181/Krypto/blob/master/Docs/troubleshooting.md)
 
 
