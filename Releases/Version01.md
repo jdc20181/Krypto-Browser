@@ -22,3 +22,4 @@ Welcome to Kryto, if you are unfamiliar, Krypto is V3 of BeffsBrowser, because o
 
 + Upgraded Gecko Version (Now using 60.XX) 
 
++ So much more!
