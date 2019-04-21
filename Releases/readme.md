@@ -10,8 +10,8 @@ Krypto's Release Schedule is designed to push an update once a month, at least d
 
 | Version | Release Month [2019] |
 |:-------:|:--------------------:|
-|   0.1   |      Early June      |
-|   0.2   | Late June/Early July |
+|   0.1   |      Early/Mid May      |
+|   0.2   | Early June (or late May depending) |
 |   0.3   |        August        |
 |   0.4   |       September      |
 |   0.5   |          TBA         |
