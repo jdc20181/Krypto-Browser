@@ -23,6 +23,7 @@ Welcome to Kryto, if you are unfamiliar, Krypto is V3 of BeffsBrowser, because o
 + Upgraded Gecko Version (Now using 60.XX) 
 
 + Added Favicon Support (Low quality, see [Improve favicon image quality](https://trello.com/c/NuBR7Cvt/45-improve-favicon-image-quality)
+   + Improved Low quality issue
 
 + Fixed: Issue with tabs where when opening new tabs too fast it would error, and not load the homepage. A temporary fix was applied.
 
