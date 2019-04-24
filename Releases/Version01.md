@@ -31,7 +31,7 @@ Welcome to Kryto, if you are unfamiliar, Krypto is V3 of BeffsBrowser, because o
 
 + Crash handling
 
-+ Fixed: Navigational errors, issues with HTTPS sites (see: [url parsing](https://trello.com/c/pddNGxlF/38-update-url-parsing)
++ Fixed: Navigational errors, issues with HTTPS sites (see: [url parsing](https://trello.com/c/pddNGxlF/38-update-url-parsing))
 
 + Updated URL parsing (Fixes the issue above)
 
