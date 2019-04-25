@@ -30,6 +30,15 @@ Tabbed navigation, Tab Dragging, multi-window browsing, private browsing, Auto-u
 
 *Some features are still in development as the transition from BeffsBrowser continues*
 
+
+
+## Dev Team 
+
++ [@jdc20181](https://github.com/jdc20181) - Project Founder, Lead Programmer
++ [@bootsie123](https://github.com/bootsie123) - Project Co-Lead, Lead Graphics/UI Designer
+
+Have questions? Don't heistate to contact us! 
+
 ## Help or other FAQ 
 
 Please See the [DOCS](https://github.com/jdc20181/Krypto/tree/master/Docs) Folder for a directory of information and documents. 
@@ -37,3 +46,4 @@ Please See the [DOCS](https://github.com/jdc20181/Krypto/tree/master/Docs) Folde
 [![Disc](https://discordapp.com/api/guilds/568432777519693827/embed.png?style=shield)](https://discord.gg/SwgGCuX)
 
 Find up to date progress on features, issues, and releases on our [Trello](https://trello.com/b/LA6P54ah/krypto-developer-organizing)
+
