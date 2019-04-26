@@ -14,3 +14,7 @@ licensed solely under [CC Attribution Non-Commerical International](http://creat
 |:-------------------:|:------------------------------:|:-----------------:|
 |    Icons,graphics other related graphics   | CC Non-Commerical Attribution  |         No        |
 | Source Code/Concept |               MIT              |      Limited      |
+
+## Fair Use of our Logo
+
+We do not allow reuse, modification, or otherwise transmission in of our logo in any way. All other icons, graphics, and images are free to be used. We take pride in our Logo, and it represents our project. We request that if you do use our logo, it is not in any development form e.g. Application assets, and it is properly labeled as Krypto's Logo. 
