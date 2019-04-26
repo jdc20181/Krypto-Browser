@@ -1,5 +1,5 @@
 # Beffsbrowser Krypto
-![logo](https://github.com/jdc20181/Krypto/blob/master/Docs/images/Logos/Krypto_Logo_512x512.png?raw=true)
+![logo](https://github.com/jdc20181/Krypto/blob/master/Docs/images/Logos/Krypto_Logo_128x128.png?raw=true)
 
 **Coming Summer 2019** 
 
