@@ -12,8 +12,6 @@ Welcome to Kryto, if you are unfamiliar, Krypto is V3 of BeffsBrowser, because o
 
 + History Management
 
-+ Google Drive Integration to Krypto Notes, and EasyCapture
-
 + Bug Fixes from known issues (see [Known issues](https://github.com/jdc20181/Krypto/issues/1))
 
 + New Features: Downloads Manager, Site Security, Diagnostics, Crash Handler, Website Information
