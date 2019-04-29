@@ -39,5 +39,9 @@ Built right into the Browser is our preciously designed, and developed Private b
 
 
 
+# Using EasyNotes, Easy Capture and more
 
+
+
+*This is incomplete needs to be written*
 
