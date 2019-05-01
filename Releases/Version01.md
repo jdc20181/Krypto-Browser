@@ -22,6 +22,7 @@ Welcome to Kryto, if you are unfamiliar, Krypto is V3 of BeffsBrowser, because o
 
 + Added Favicon Support (Low quality, see [Improve favicon image quality](https://trello.com/c/NuBR7Cvt/45-improve-favicon-image-quality)
    + Improved Low quality issue
+   + Known issue with [Favicons showing up blank on the new Tab Control](https://trello.com/c/WIPi3tXE/63-issues-with-favicons-with-new-tabcontrol) 
 
 + Fixed: Issue with tabs where when opening new tabs too fast it would error, and not load the homepage. A temporary fix was applied.
 
@@ -37,5 +38,6 @@ Welcome to Kryto, if you are unfamiliar, Krypto is V3 of BeffsBrowser, because o
   + Changed some navigation stuff under the hood, instead of loading the tab, the browser, and everything at once, it now initates the browser AFTER the tab has been created. 
  + Known issue: A slight 1/2 second delay occurs sometimes, will be fixed eventually. 
 
++ New and Improved Tab Control, minus Favicon support it has unlocked the pathway to new features. 
 
 + So much more!
