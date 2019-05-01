@@ -17,7 +17,21 @@ Other features, are built into the browser, and include SSL (In simple terms we 
 
 We tried to keep the shortcuts on the same concept as other browsers, some however were not possible so we made you a chart! 
 
-[//To do insert chart//] 
+|   Feature/Item  |  Shortcut Keys   | Where                            |
+|:---------------:|:----------------:|----------------------------------|
+|     New Tab     |     Ctrl+Tab     | Browser                          |
+| Browser History |      Ctrl+H      | Browser                          |
+| Select All      | Ctrl + A         | Browser,or nav box, or EasyNotes |
+| Find on page    | Ctrl+F           | Browser,EasyNotes                |
+| Back            | Ctrl+B           | Browser                          |
+| Forward         | Alt+F            | Browser                          |
+| Refresh         | Ctrl+R           | Browser                          |
+| Print           | Ctrl+P           | Browser                          |
+| FullScreen      | F11/F1           | Browser                          |
+| Scroll Tabs     | Ctrl+Scrollwheel | Browser                          |
+|                 |                  |                                  |
+|                 |                  |                                  |
+|                 |                  |                                  |
 
 
 
