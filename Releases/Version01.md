@@ -33,4 +33,9 @@ Welcome to Kryto, if you are unfamiliar, Krypto is V3 of BeffsBrowser, because o
 
 + Updated URL parsing (Fixes the issue above)
 
++ Faster Loading Times
+  + Changed some navigation stuff under the hood, instead of loading the tab, the browser, and everything at once, it now initates the browser AFTER the tab has been created. 
+ + Known issue: A slight 1/2 second delay occurs sometimes, will be fixed eventually. 
+
+
 + So much more!
