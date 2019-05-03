@@ -6,6 +6,8 @@ Krypto is the new BeffsBrowser (BeffsBrowser Krypto is the project's Full name),
 
 ### Release Schedule 
 
+*Note releases here are stable releases, for details on testing releases check out our contributing guide, and Releases documentation*
+
 Krypto's Release Schedule is designed to push an update once a month, at least during the initial release period (Versions 0.1 to 0.5), once stable, the release schedule may change, below is an approximate release table. 
 
 | Version | Release Month [2019] |
