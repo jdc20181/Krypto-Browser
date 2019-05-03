@@ -16,4 +16,4 @@
 
 - [Trouble Shooting](https://github.com/jdc20181/Krypto/blob/master/Docs/troubleshooting.md)
 
-
++ [Application Guide](https://github.com/jdc20181/Krypto/blob/master/Docs/ApplicationGuide.md)
