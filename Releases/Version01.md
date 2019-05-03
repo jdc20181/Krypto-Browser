@@ -40,4 +40,6 @@ Welcome to Kryto, if you are unfamiliar, Krypto is V3 of BeffsBrowser, because o
 
 + New and Improved Tab Control, minus Favicon support it has unlocked the pathway to new features. 
 
++ Port Support (e.g. https://google.com:80) 
+
 + So much more!
