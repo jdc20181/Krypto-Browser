@@ -1,18 +1,15 @@
-# Welcome to Releases Documentation
+# Krypto Releases Information
 
 Releases are a formatted versioning system to keep track of application progress throughout the life of Kryto. 
 
-Each release is ran through a 3 layered pipeline: 
+Each release is ran through a 3 layered pipeline: Developers Branch, Canary (Beta Branch), and Stable. 
 
-*A Developers Branch (Not public)*
-   
-The Developers Branch is based on a Daily Build, Developer Team Use
+The Developers Branch is for development only and is not released on Github, or as a release. These are usually local only. 
 
-*Beta/Alpha Branch (Canary)*
-    
- Weekly Release, for those who want to live on the edge. 
+The Canary Branch is for those who wish to see our newest additions. These change a lot and vary from Weekly to daily. This is also not on Github, although the release can be downloaded via our website. 
 
-*Stable Branch*
+The Stable Branch is the latest and is intended for most users, and follow the [release schedule](https://github.com/jdc20181/Krypto/blob/master/Releases/readme.md#release-schedule)
 
 
-Monthly Release, every 4-6 weeks. 
+
+
