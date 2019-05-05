@@ -4,18 +4,8 @@
 Name = Krypto
 ProductVersion = 0.0.2
 URL = https://github.com/jdc20181/Krypto/releases/download/0.0.1/Krypto_v0.0.1.exe
-Size = 127380983
-MD5 = 7824868dd2c5ed445d3d500e4dc6ae3d
+Size = 127381014
+MD5 = 700c769467aab75a71c2476c6e8e6d1d
 ServerFileName = Krypto_v0.0.2.exe
 RegistryKey = HKUD\Software\BeffsBrowser\Krypto\Version
-Version = 0.0.2.0
-
-[v0.0.1]
-Name = Krypto
-ProductVersion = 0.0.1
-URL = https://github.com/jdc20181/Krypto/releases/download/0.0.1/Krypto_v0.0.1.exe
-Size = 127380927
-MD5 = f6e5d5971a72694b88398630631ff997
-ServerFileName = Krypto_v0.0.1.exe
-RegistryKey = HKUD\Software\BeffsBrowser\Krypto\Version
-Version = 0.0.1
+Version = 0.0.2
