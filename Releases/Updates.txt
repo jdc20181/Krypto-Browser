@@ -1,1 +1,18 @@
+;aiu;
 
+[0.0.2]
+Name = Krypto
+ProductVersion = 0.0.2
+URL = https://github.com/jdc20181/Krypto/releases/download/0.0.1/Krypto_v0.0.2.exe
+Size = 127379098
+MD5 = dc62a2a4e30e2e4686f9b2a51dbfc64c
+ServerFileName = Krypto_v0.0.2.exe
+RegistryKey = HKUD\Software\BeffsBrowser\Krypto\Version
+Version = 0.0.2
+Description = In this Test, there is basic functionality, and a Developer’s Navigation Dashboard, on this dashboard you can go to the different features within Krypto. This dashboard will not exist to public releases, and is for development navigation only. 
+Description1 = There is a ton of missing features, No Favorites, No Favicons, EasyNotes has no settings, and very few features editing options. EasyCapture works, but only supports one screenshot at a time. No Design, much is using defaults, no icons all text. No Settings for EasyCapture, either, and by default it still saves locally and to the cloud. 
+Description2 = **NO SUPPORT FOR UPDATES** 
+Description3 = You will need to manually update with this version, this will be resolved soon. 
+Description4 = *Updates to this release* 
+Description5 = + 0.0.1 Initial Release 
+Description6 = + 0.0.2 Fixes installer issue
