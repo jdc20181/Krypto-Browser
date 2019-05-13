@@ -1,14 +1,30 @@
-# Krypto Releases Information
+# Krypto Releases
 
-Releases are a formatted versioning system to keep track of application progress throughout the life of Kryto. 
+**Overview** 
 
-Each release is ran through a 3 layered pipeline: Developers Branch, Canary (Beta Branch), and Stable. 
 
-The Developers Branch is for development only and is not released on Github, or as a release. These are usually local only. 
+Krypto is divided out into 3 release types: Developer, Canary, and Stable Releases. 
 
-The Canary Branch is for those who wish to see our newest additions. These change a lot and vary from Weekly to daily. This is also not on Github, although the release can be downloaded via our website. 
+The Developer Branch is the private in-house development environment from which we release our canary version, which is the Beta testing version, where we use our 3-stage Building Flow to bring you a stable release. 
 
-The Stable Branch is the latest and is intended for most users, and follow the [release schedule](https://github.com/jdc20181/Krypto/blob/master/Releases/readme.md#release-schedule)
+Our Build Flow is as follows: Mechanical, Staging, Release Candidate. 
+
+
+Once a build qualifies for a release candidate, we polish up the remaining items they may need attention and begin final preparations for a stable release.  
+
+Stable Releases occur generally, once every 4-6 weeks or longer depending on the build-flow stage. 
+
+**Downloading, and using different release versions** 
+
+We have two release options available for download: Stable, and Canary
+
+Stable is our public finalized version from our building flow. This is suitable for most general users. Those who want a more dependable product or rely on such. 
+
+
+Canary is our public developmental release, designed to test new features, potential bug fixes, and to test mechanical upgrades that may impact a large number of users. This build is intended to be used by those who like to test new things, and are generally technically-educated (you know somewhat at least what you are doing)
+
+*this document is still needing more written*
+
 
 
 
