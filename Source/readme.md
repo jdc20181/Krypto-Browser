@@ -24,6 +24,6 @@ Krypto is built using VB.NET, C#, HTML, JS, and CSS, so as long as you know any 
 
 **System Requirements to build** 
 
-+Visual Studio 2015 or Newer ( we are using VS17 and VS19) 
-+.NET Framework 4.5.2 
-+Gecko 60 or newer. 
++ Visual Studio 2015 or Newer ( we are using VS17 and VS19) 
++ .NET Framework 4.5.2 
++ Gecko 60 or newer. 
