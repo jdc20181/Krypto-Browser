@@ -27,3 +27,11 @@ Krypto is built using VB.NET, C#, HTML, JS, and CSS, so as long as you know any 
 + Visual Studio 2015 or Newer ( we are using VS17 and VS19) 
 + .NET Framework 4.5.2 
 + Gecko 60 or newer. 
+
+**Redacted Source-Code Disclaimer** 
+
+Our Source Code, in some cases uses API keys, these are private keys that will never be made public, and are redacted from the source code. 
+Things such as openning dialogs, checking for updates (managed by Advance Installer), and other misc unneccessary code is redacted to focus on the main source code of mechanical aspects. 
+
+Project Files, packages, dlls, or other exe's that control third party services or apis are also redacted but listed within if neccessary to function. 
+
