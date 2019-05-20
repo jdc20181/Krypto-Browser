@@ -1,14 +1,14 @@
 ;aiu;
 
-[0.0.2]
+[0.0.3]
 Name = Krypto
-ProductVersion = 0.0.2
-URL = https://github.com/jdc20181/Krypto/releases/download/0.0.2/Krypto_v0.0.2.exe
-Size = 127454746
-MD5 = 4e4e2347f425307e710bec1bc360ae00
-ServerFileName = Krypto_v0.0.2.exe
+ProductVersion = 0.0.3
+URL = https://github.com/jdc20181/Krypto/releases/download/0.0.2/Krypto_v0.0.3.exe
+Size = 127454749
+MD5 = 01ac1aaf56aa6ae53cb4953779464717
+ServerFileName = Krypto_v0.0.3.exe
 RegistryKey = HKUD\Software\BeffsBrowser\Krypto\Version
-Version = 0.0.2
+Version = 0.0.3
 Description = Release Details
 Description1 = This release includes fixes, updates, and more. Read ahead to learn more. 
 Description2 = Updates Support was added in this update, so you will no longer have to manually update.
