@@ -10,23 +10,8 @@ Krypto is the new BeffsBrowser (BeffsBrowser Krypto is the project's Full name),
 
 Krypto's Release Schedule is designed to push an update once a month, at least during the initial release period (Versions 0.1 to 0.5), once stable, the release schedule may change, below is an approximate release table. 
 
-| Version | Release Month [2019] |
-|:-------:|:--------------------:|
-|   0.1   |      Early/Mid May      |
-|   0.2   | Early June (or late May depending) |
-|   0.3   |        August        |
-|   0.4   |       September      |
-|   0.5   |          TBA         |
-|   0.6   |          TBA         |
-|   0.7   |          TBA         |
-|   0.8   |          TBA         |
-|   0.9   |          TBA         |
-|   1.0   |          TBA         |
+Our Release schedule is to make a release every 14-Days, while we make the best effort to meet this schedule it isn't guranteed 
 
-
-
-
-Releases are subject to change, and the table is for informational purposes only. Due to technical limitations or unexpected errors, releases could be delayed. 
 
 
 ### Archiving Policy 
