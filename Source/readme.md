@@ -35,3 +35,6 @@ Things such as openning dialogs, checking for updates (managed by Advance Instal
 
 Project Files, packages, dlls, or other exe's that control third party services or apis are also redacted but listed within if neccessary to function. 
 
+**Source Code Updates** 
+
+Krypto is at the beginning, while it is based off of BeffsBrowser, we are rewriting from the ground up, you may see similar code from BeffsBrowser, but a lot is changing and with that, 
